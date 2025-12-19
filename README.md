@@ -31,6 +31,69 @@
 
 ---
 
+
+## 🧪 Testing Projects
+
+A comprehensive showcase of my automation testing and QA projects with various frameworks and approaches:
+
+### UI Automation Testing
+
+#### [🔗 ITI E-Commerce - Java Selenium Automation](https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Java-Selenium-Automation)
+- **Stack:** Java + Selenium WebDriver + TestNG + Page Object Model
+- **Focus:** End-to-end UI automation for e-commerce platform
+- **Status:** ⭐ Starred • Full project with comprehensive test cases
+- **Website:** https://itigraduation.pythonanywhere.com/
+
+#### [🔗 ITI E-Commerce - TypeScript Playwright UI Automation](https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Typescript-Playwright-UI-Automation)
+- **Stack:** TypeScript + Playwright + Page Object Model + Fixture-based setup
+- **Focus:** Modern UI automation using Playwright with TypeScript
+- **Features:** Reliability, smart selectors, cross-browser testing
+- **Status:** ⭐ Starred • Updated 2 weeks ago
+
+### API & Integration Testing
+
+#### [🔗 ITI E-Commerce - Java REST Assured API Testing](https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Java-Rest-Assured-Automation-Postman)
+- **Stack:** Java + RestAssured + Postman Collections + Newman + Maven
+- **Scope:** Comprehensive API test suite covering 81+ endpoints
+- **Features:** Request/response validation, regression testing, data-driven tests
+- **Reporting:** Newman CLI reports + GitHub Actions CI/CD
+- **Status:** ⭐ Starred • Full stack test object with source code available
+
+### Backend & Full-Stack Testing
+
+#### [🔗 ITI E-Commerce - Full Stack Python Flask](https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Full-Stack-Python-Flask)
+- **Stack:** Python Flask + JSON-based database
+- **Scope:** 81 endpoints e-commerce application for testing
+- **Testing Approach:** Complete backend implementation as test object
+- **Benefits:** Deep understanding of system under test (SUT) with full database integration
+- **Status:** ⭐ Starred • Production-ready test object
+
+### Integrated Testing Approach
+
+#### [🔗 DEPI Graduation Project - Manual + Automation + API Testing](https://github.com/mogomaa2025/DEPI_GRADUTION_PROJECT)
+- **Integrated Testing:** Combines manual, automation, and API testing
+- **Components:**
+  - 📋 Manual test case design
+  - 🤖 UI automation scripts
+  - 📡 API test automation
+  - 📊 Bug reports & test coverage analysis
+- **Focus:** Complete QA lifecycle from planning to reporting
+
+### Specialized Testing Projects
+
+#### [🔗 ThirdEye Testing - Digitopia Real Project](https://github.com/mogomaa2025/ThirdEye-Testing)
+- **Project:** Digitopia Third Eye - Real Project Proposal
+- **Organization:** Testination Group (Alexandria ITI Branch)
+- **Type:** Real-world testing engagement
+- **Status:** Production testing experience
+
+#### [🔗 CRM Bug Test Cases](https://github.com/mogomaa2025/crm-bugstestcases)
+- **Focus:** Bug identification and test case documentation
+- **Type:** CRM system testing and regression suites
+
+---
+
+
 ### 🚀 Highlighted Projects
 
 #### 1️⃣ **ITI E‑Commerce – Java Selenium Automation**
