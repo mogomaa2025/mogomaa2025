@@ -23,6 +23,11 @@ it's important to visit portfolio for organized and updated projects, certificat
 - Currently mastering **advanced Playwright** and **CI/CD automation**.
 - Developed Full Stack **E‑Commerce** Testobject (front-end, back-end, API, database).
 - Developed Full Stack [🔗 Portfolio]([https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Java-Selenium-Automation](https://gowano2025.pythonanywhere.com/))
+
+<img width="432" height="608" alt="2025-12-21_185946" src="https://github.com/user-attachments/assets/873f0111-8fe0-4c62-9708-3ede3d05abc9" />
+<img width="1080" height="774" alt="image" src="https://github.com/user-attachments/assets/a102e412-c4f0-4a47-937d-9517c6de844e" />
+
+
 ---
 
 
