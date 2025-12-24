@@ -95,7 +95,6 @@ A comprehensive showcase of my automation testing and QA projects with various f
 
 ### 📊 GitHub Stats
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogomaa2025&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mogomaa2025&theme=dark&hide_border=true&layout=compact)
 
 ---
