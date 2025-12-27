@@ -55,6 +55,8 @@ A comprehensive showcase of my automation testing and QA projects with various f
 - **Website:** https://itigraduation.pythonanywhere.com/
 
 #### [🔗 ITI E-Commerce - TypeScript Playwright UI Automation](https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Typescript-Playwright-UI-Automation)
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/8032ef0d-56a3-47fc-b374-3bd877fede5f" />
+<img width="1541" height="1222" alt="image" src="https://github.com/user-attachments/assets/a5a2f8b2-2357-4a35-8b7a-7527dc145320" />
 - **Stack:** TypeScript + Playwright + Page Object Model + Fixture-based setup + Auto Wait + Faker + Monocart Report + Playwright Report
 - **Focus:** Modern UI automation using Playwright with TypeScript
 - **Features:** Reliability, smart selectors, cross-browser testing
@@ -62,6 +64,8 @@ A comprehensive showcase of my automation testing and QA projects with various f
 ### API & Integration Testing
 
 #### [🔗 ITI E-Commerce - Java REST Assured API Testing](https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Java-Rest-Assured-Automation-Postman)
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/406e42ff-f6d1-494c-9926-e371d2314579" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/fd179fc0-f70d-4b58-aadd-2c737275ccd3" />
 - **Stack:** Java + RestAssured + Postman Collections + Newman + Maven
 - **Scope:** Comprehensive API test suite covering 81+ endpoints
 - **Features:** Request/response validation, regression testing, data-driven tests
@@ -70,14 +74,34 @@ A comprehensive showcase of my automation testing and QA projects with various f
 ### Backend & Full-Stack Testing
 
 #### [🔗 ITI E-Commerce - Full Stack Python Flask](https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Full-Stack-Python-Flask)
+<img width="1206" height="935" alt="image" src="https://github.com/user-attachments/assets/fd2021c3-14d2-4d44-a222-77df96d7b947" />
+```mermaid
+graph TD
+    Client[Browser / Test Script] <-->|HTTP Requests| Server[Flask Server]
+    Server <-->|Read/Write| DB[(JSON Data Store)]
+    FailConfig[fail.json] -.->|Injects Logic| Server
+    FailConfig -.->|Controls UI| Client
+    
+    subgraph "Backend"
+    Server
+    DB
+    end
+    
+    subgraph "Configuration"
+    FailConfig
+    end
+```
 - **Stack:** Python Flask + JSON-based database + JWT Refresh Tokens + Hashed Passwords
 - **Scope:** 81 endpoints e-commerce application for testing
 - **Testing Approach:** Complete backend implementation as test object
 - **Benefits:** Deep understanding of system under test (SUT) with full database integration
 
-### Integrated Testing Approach
 
 #### [🔗 DEPI Graduation Project - Manual + Automation + API Testing](https://github.com/mogomaa2025/DEPI_GRADUTION_PROJECT)
+<img width="764" height="740" alt="image" src="https://github.com/user-attachments/assets/e4525fa9-cba6-4a16-a073-1dab2170fdf2" />
+<img width="794" height="715" alt="image" src="https://github.com/user-attachments/assets/34ba7dd9-e9f7-495f-851b-ae2e35b1adc9" />
+<img width="775" height="715" alt="image" src="https://github.com/user-attachments/assets/4bfcbbe5-8d01-40da-92d8-000c9d2a211f" />
+
 - **Integrated Testing:** Combines manual, automation, and API testing
 - **Components:**
   - 📋 Manual test case design
@@ -89,12 +113,14 @@ A comprehensive showcase of my automation testing and QA projects with various f
 ### Specialized Testing Projects
 
 #### [🔗 ThirdEye Testing - Digitopia Real Project](https://github.com/mogomaa2025/ThirdEye-Testing)
+<img width="764" height="796" alt="image" src="https://github.com/user-attachments/assets/a988e7af-1f52-47a0-ae3b-a21ff84ba666" />
 - **Project:** Digitopia Third Eye - Real Project Proposal
 - **Organization:** Testination Group (Alexandria ITI Branch)
 - **Type:** Real-world testing engagement
 - **Status:** Production testing experience
 
 #### [🔗 CRM Bug Test Cases](https://github.com/mogomaa2025/crm-bugstestcases)
+<img width="779" height="783" alt="image" src="https://github.com/user-attachments/assets/4559d563-4178-41dd-a48b-19a7a9f58d30" />
 - **Focus:** Bug identification and test case documentation
 - **Type:** CRM system testing and regression suites
 
