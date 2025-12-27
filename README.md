@@ -75,22 +75,7 @@ A comprehensive showcase of my automation testing and QA projects with various f
 
 #### [🔗 ITI E-Commerce - Full Stack Python Flask](https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Full-Stack-Python-Flask)
 <img width="1206" height="935" alt="image" src="https://github.com/user-attachments/assets/fd2021c3-14d2-4d44-a222-77df96d7b947" />
-```mermaid
-graph TD
-    Client[Browser / Test Script] <-->|HTTP Requests| Server[Flask Server]
-    Server <-->|Read/Write| DB[(JSON Data Store)]
-    FailConfig[fail.json] -.->|Injects Logic| Server
-    FailConfig -.->|Controls UI| Client
-    
-    subgraph "Backend"
-    Server
-    DB
-    end
-    
-    subgraph "Configuration"
-    FailConfig
-    end
-```
+
 - **Stack:** Python Flask + JSON-based database + JWT Refresh Tokens + Hashed Passwords
 - **Scope:** 81 endpoints e-commerce application for testing
 - **Testing Approach:** Complete backend implementation as test object
