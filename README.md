@@ -98,6 +98,7 @@ A comprehensive showcase of my automation testing and QA projects with various f
 ### Specialized Testing Projects
 
 #### [🔗 ThirdEye Testing - Digitopia Real Project](https://github.com/mogomaa2025/ThirdEye-Testing)
+
 <img width="764" height="796" alt="image" src="https://github.com/user-attachments/assets/a988e7af-1f52-47a0-ae3b-a21ff84ba666" />
 
 - **Project:** Digitopia Third Eye - Real Project Proposal
@@ -106,14 +107,16 @@ A comprehensive showcase of my automation testing and QA projects with various f
 - **Status:** Production testing experience
 
 #### [🔗 CRM Bug Test Cases](https://github.com/mogomaa2025/crm-bugstestcases)
+
 <img width="779" height="783" alt="image" src="https://github.com/user-attachments/assets/4559d563-4178-41dd-a48b-19a7a9f58d30" />
+
 - **Focus:** Bug identification and test case documentation
 - **Type:** CRM system testing and regression suites
 
 ---
 
-### 📊 GitHub Stats
 
+### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mogomaa2025&theme=dark&hide_border=true&layout=compact)
 
 ---
