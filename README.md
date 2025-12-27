@@ -11,6 +11,7 @@ it's important to visit portfolio for organized and updated projects, certificat
 <img width="1904" height="929" alt="image" src="https://github.com/user-attachments/assets/5976ad3f-d08d-46a0-b973-62f37275f83c" />
 
 [🔗 Portfolio]([https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Java-Selenium-Automation](https://gowano2025.pythonanywhere.com/))
+ <a href="https://gowano2025.pythonanywhere.com/">Portfolio</a> •
 ---
 
 ### 👨‍💻 About Me
@@ -117,8 +118,7 @@ A comprehensive showcase of my automation testing and QA projects with various f
 
 
 ### 📊 GitHub Stats
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mogomaa2025&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mogomaa2025&theme=dark&hide_border=true&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mogomaa2025&theme=dark&hide_border=true&layout=compact)](https://github.com/mogomaa2025)
 
 
 ---
