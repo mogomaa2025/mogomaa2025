@@ -8,7 +8,6 @@
 </p>
 
 it's important to visit portfolio for organized and updated projects, certifications.
-<img width="1904" height="929" alt="image" src="https://github.com/user-attachments/assets/5976ad3f-d08d-46a0-b973-62f37275f83c" />
 [![🔗 Portfolio](https://github.com/user-attachments/assets/5976ad3f-d08d-46a0-b973-62f37275f83c)](https://gowano2025.pythonanywhere.com/)
 #### [🔗 Portfolio](https://gowano2025.pythonanywhere.com/)
 
