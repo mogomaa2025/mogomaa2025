@@ -99,6 +99,7 @@ A comprehensive showcase of my automation testing and QA projects with various f
 
 #### [🔗 ThirdEye Testing - Digitopia Real Project](https://github.com/mogomaa2025/ThirdEye-Testing)
 <img width="764" height="796" alt="image" src="https://github.com/user-attachments/assets/a988e7af-1f52-47a0-ae3b-a21ff84ba666" />
+
 - **Project:** Digitopia Third Eye - Real Project Proposal
 - **Organization:** Testination Group (Alexandria ITI Branch)
 - **Type:** Real-world testing engagement
