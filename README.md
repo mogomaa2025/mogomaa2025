@@ -48,6 +48,8 @@ A comprehensive showcase of my automation testing and QA projects with various f
 ### UI Automation Testing
 
 #### [🔗 ITI E-Commerce - Java Selenium Automation](https://github.com/mogomaa2025/ITI-Personal-E-Commerce-Java-Selenium-Automation)
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/e141631e-50fc-4204-9369-9699dca341e7" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/1aa46df0-0ef8-48c5-8f1b-bf4ab64e0234" />
 - **Stack:** Java + Selenium WebDriver + TestNG + Page Object Model + Data Provider + Custom Assertions
 - **Focus:** End-to-end UI automation for My Full Stack E-commerce platform
 - **Website:** https://itigraduation.pythonanywhere.com/
